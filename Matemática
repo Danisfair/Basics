@@ -1,0 +1,11 @@
+
+exponenciação = 2 ** 10
+print('Exponenciação', exponenciação)
+
+divisão_inteira = 10//3 
+
+módulo = 25 % 5 # resto da divisão 
+print('módulo', módulo)
+
+módulo = 55 % 2 # resto da divisão
+print('módulo', módulo)
